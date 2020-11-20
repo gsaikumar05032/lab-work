@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="detail.xsl"?>
+
+<student>
+    <personal_info>
+        <sno>1</sno>
+        <name>JASHU</name>
+        <addr>R K V B PET</addr>
+        <std>3rd yr</std>
+        <marks>85</marks>
+    </personal_info>
+    <personal_info>
+        <sno>2</sno>
+        <name>RISHI</name>
+        <addr>PUTTUR</addr>
+        <std>3rd yr</std>
+        <marks>75</marks>
+    </personal_info>
+    <personal_info>
+        <sno>3</sno>
+        <name>ajay</name>
+        <addr>CHENNAI</addr>
+        <std>3rd yr</std>
+        <marks>80</marks>
+    </personal_info>
+    <personal_info>
+        <sno>4</sno>
+        <name>VENKY</name>
+        <addr>COIMBATORE</addr>
+        <std>3rd yr</std>
+        <marks>88</marks>
+    </personal_info>
+    <personal_info>
+        <sno>5</sno>
+        <name>SAIKUMAR</name>
+        <addr>nagarm</addr>
+        <std>3rd yr</std>
+        <marks>98</marks>
+    </personal_info>
+</student>
